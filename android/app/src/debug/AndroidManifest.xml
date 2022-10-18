@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.vichakshan_ek_nai_soch.vichakshan_news_flutter">
+    <!-- Flutter needs it to communicate with the running application.dart
+         to allow setting breakpoints, to provide hot reload, etc.
+    -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+</manifest>
